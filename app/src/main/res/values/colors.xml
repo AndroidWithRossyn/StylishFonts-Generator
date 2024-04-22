@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#333333</color>
+    <color name="white">#F8F8F8</color>
+
+    <color name="brand_color">#0073C2</color>
+    <color name="brand_second">#58B8FA</color>
+    <color name="popup_btn_color">#7CA8D9FB</color>
+
+    <color name="background">#f2f3f5</color>
+
+
+    <color name="header_text_color">#1DB06F</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="tab_txt_press">#ffffff</color>
+    <color name="tab_txt_unpress">#1DB06F</color>
+    <color name="main_bg_color">#F9FBFD</color>
+    <color name="thumb_color">#A1A1A2</color>
+    <color name="track_color">#DADCDD</color>
+
+    <color name="popup_bg">#fff</color>
+
+    <color name="btn_icon">#1DB06F</color>
+    <color name="text_hint_color">#70BA99</color>
+
+
+    <color name="ripple">#CEEDECEC</color>
+
+
+
+    <color name="txtPrime">#000000</color>
+    <color name="txtSecond">#2C2C2C</color>
+    <color name="app_light_color">#008716</color>
+    <!--    green main-->
+    <color name="items">#1c5715</color>
+</resources>

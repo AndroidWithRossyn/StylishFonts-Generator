@@ -1,0 +1,22 @@
+Title
+Stylish Text Generator
+
+Short Dis
+Create amazing bio messages using stylish text
+
+
+Long Dis
+
+Discover the ultimate in text creativity with FontGen! Unleash your imagination using our Font Generator and Emoji Art creator. Effortlessly craft captivating Fancy Text, Gaming Names, and unique Nicknames.
+
+Featurs:
+- Cool Fonts.
+- Rare Symbols for nicknames.
+- Stylish text for bio.
+- Decorations.
+- Encode messages with emoji feature.
+
+This app uses Unicode characters to generate a wide variety of fancy fonts and decorated text styles. The best part is that you can copy and paste these fonts online since Unicode is supported on most platforms.
+
+Disclaimer:
+This Stylish Text Generator is not associated with any trademark company.

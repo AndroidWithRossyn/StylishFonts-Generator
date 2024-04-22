@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/font_to_emoji"
+        android:icon="@drawable/font_to_emoji"
+        android:title="Font to Emoji" />
+    <item
+        android:id="@+id/text_repeater"
+        android:icon="@drawable/text_reperter"
+        android:title="Text Repeater" />
+    <item
+        android:id="@+id/ascii_face"
+        android:icon="@drawable/ascii_face"
+        android:title="Ascii Faces" />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/share"
+        android:title="Share" />
+    <item
+        android:id="@+id/nav_rate_us"
+        android:icon="@drawable/star"
+        android:title="Rate Us" />
+    <item
+        android:id="@+id/nav_feedback"
+        android:icon="@drawable/feedback"
+        android:title="Feedback" />
+    <item
+        android:id="@+id/nav_privacy"
+        android:icon="@drawable/privacy_check"
+        android:title="Privacy Policy" />
+</menu>

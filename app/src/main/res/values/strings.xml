@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Stylish Fonts</string>
+
+    <string name="f_font">Fancy Font</string>
+    <string name="fancy" translatable="false">Fancy</string>
+    <string name="prettify" translatable="false">Prettify</string>
+    <string name="emoji" translatable="false">Emoji</string>
+    <string name="edit_text_value">Enter text here</string>
+
+
+    <string name="share_subject">share</string>
+    <string name="share_using">Share Using</string>
+    <string name="text_enter_text">Enter Text</string>
+    <string name="text_enter_emoji">Enter Emoji</string>
+    <string name="text_transform">Transform</string>
+
+    <string name="txt_please_enter_your_message_and_counter">Please enter your message and counter.</string>
+    <string name="txt_please_enter_your_message">Please enter your message.</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_save">Save</string>
+
+    <string name="text_copy">Copy</string>
+    <string name="text_clear">Clear</string>
+    <string name="text_share">Share</string>
+    <string name="text_repeat">Repeat</string>
+
+    <string name="text_enter_message">Enter Message</string>
+    <string name="text_enter_repetition_limit">Enter Repeat Number</string>
+    <string name="auto_clean_activated">Auto-clean activated</string>
+    <string name="enter_message_here">Enter message here..</string>
+    <string name="text_limit_note">Note : Number of Repeater Text Limit 999</string>
+    <string name="text_new_line_on">New Line On </string>
+
+
+
+
+    <string name="share_app_message">Stylish Font for Instagram Cool Bio\n\nHello Let me Recommend you this App Download easy way to Create Cool Fancy Bio &amp; Whatsapp Emojis Texts Repeater \n </string>
+
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="email_feedback">tinuuptl576@gmail.com</string>
+    <string name="policy_url">https://tinuptapps.blogspot.com/2024/04/privacy-policy.html</string>
+</resources>
